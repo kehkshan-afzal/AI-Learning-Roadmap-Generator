@@ -1,4 +1,4 @@
-[readme_md.md](https://github.com/user-attachments/files/32368031/readme_md.md)
+[readme_md.md]([https://github.com/user-attachments/files/32368031/readme_md.md](https://ai-learning-roadmap-generater.streamlit.app/)
 # 🎓 AI Learning Roadmap Generator
 
 An interactive web application powered by **Google Gemini AI** and **Gradio** that creates tailored, step-by-step learning roadmaps based on a student's domain, current skill level, total target duration, and weekly available time.
