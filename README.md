@@ -24,7 +24,8 @@ An interactive web application powered by **Google Gemini AI** and **Streamlit**
 ---
 ## 📸 Preview
 
-![AI Learning Roadmap Generator](screenshot.png)
+![AI Learning Roadmap Generator](Screenshot.png)
+
 ## 🚀 Live Demo
 
 👉 [Try the AI Learning Roadmap Generator](https://ai-learning-roadmap-generater.streamlit.app/)
