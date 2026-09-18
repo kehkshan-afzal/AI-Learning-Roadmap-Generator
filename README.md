@@ -1,7 +1,7 @@
 [readme_md.md]([https://github.com/user-attachments/files/32368031/readme_md.md](https://ai-learning-roadmap-generater.streamlit.app/)
 # 🎓 AI Learning Roadmap Generator
 
-An interactive web application powered by **Google Gemini AI** and **Gradio** that creates tailored, step-by-step learning roadmaps based on a student's domain, current skill level, total target duration, and weekly available time.
+An interactive web application powered by **Google Gemini AI** and **Streamlit** that creates tailored, step-by-step learning roadmaps based on a student's domain, current skill level, total target duration, and weekly available time.
 
 ---
 
@@ -18,7 +18,7 @@ An interactive web application powered by **Google Gemini AI** and **Gradio** th
 
 * **Language:** Python 3.x
 * **AI Model:** Google Gemini (`gemini-3.5-flash-lite`) via `google-genai` SDK
-* **UI Framework:** [Gradio](https://www.gradio.app/)
+* **UI Framework: Streamlit
 * **Environment:** Compatible with local execution or Google Colab
 
 ---
@@ -27,8 +27,7 @@ An interactive web application powered by **Google Gemini AI** and **Gradio** th
 ![AI Learning Roadmap Generator](screenshot.png)
 ## 🚀 Live Demo
 
-👉 [Try the AI Learning Roadmap Generator]([YOUR_STREAMLIT_URL](https://ai-learning-roadmap-generater.streamlit.app/))
-
+👉 [Try the AI Learning Roadmap Generator](https://ai-learning-roadmap-generater.streamlit.app/)
 ## 🚀 Getting Started
 
 ### 1. Prerequisites & Installation
