@@ -22,6 +22,12 @@ An interactive web application powered by **Google Gemini AI** and **Gradio** th
 * **Environment:** Compatible with local execution or Google Colab
 
 ---
+## 📸 Preview
+
+![AI Learning Roadmap Generator](screenshot.png)
+## 🚀 Live Demo
+
+👉 [Try the AI Learning Roadmap Generator]([YOUR_STREAMLIT_URL](https://ai-learning-roadmap-generater.streamlit.app/))
 
 ## 🚀 Getting Started
 
